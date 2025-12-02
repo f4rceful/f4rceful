@@ -6,3 +6,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/github-contribution-grid-snake-dark.svg" /> 
 </div>
+novatorem-psi-ten.vercel.app
