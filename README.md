@@ -1,4 +1,4 @@
-# I'm f4rceful
+# My site
 
 <div align="center">
   <br>
@@ -8,7 +8,7 @@
   <br><br>
 </div>
 
-<h2 align="center">Activity</h2>
+<h2>Activity</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
