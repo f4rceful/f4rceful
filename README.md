@@ -1,10 +1,12 @@
-# I'm f4rceful
+# My site
 
-<h2 align="center">Languages and Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,blender,css,django,docker,fastapi,figma,git,html,js,mysql,nodejs,py,react,sqlite,vue&theme=dark&perline=9" alt="My Skills" />
-</p>
+<div align="center">
+  <br>
+  <a href="https://f4rceful.wtf" target="_blank" style="font-size: 80px; font-weight: 900; color: white; text-decoration: none; font-family: sans-serif;">
+    F4RCEFUL.WTF
+  </a>
+  <br><br>
+</div>
 
 <h2 align="center">Activity</h2>
 
