@@ -1,12 +1,3 @@
-# My site
-
-<div align="center">
-  <br>
-  <a href="https://f4rceful.wtf" target="_blank">
-    <img src="title.svg" alt="F4RCEFUL.WTF" />
-  </a>
-  <br><br>
-</div>
 
 <h1>Activity</h1>
 
