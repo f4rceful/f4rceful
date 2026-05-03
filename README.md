@@ -4,7 +4,7 @@
 
 ## Stack
 
-**Frontend**
+*Frontend*
 
 ![HTML](https://img.shields.io/badge/HTML-555?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-555?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-555?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-555?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-555?style=flat-square&logo=tailwindcss&logoColor=white)
 
