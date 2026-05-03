@@ -1,4 +1,4 @@
-# Yo, I'm f4rceful
+# Yo, I'm f4rceful 🫟
 
 **ML Engineer / MLOps Engineer**
 
