@@ -1,6 +1,4 @@
-# Yo, I'm f4rceful 🫟
-
-**ML Engineer / MLOps Engineer**
+# ML Engineer / MLOps Engineer 🫟
 
 ## Stack
 
