@@ -1,4 +1,4 @@
-# ML Engineer / MLOps Engineer 🫟
+# ML Engineer / MLOps Engineer 
 
 ## Stack
 
