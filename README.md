@@ -30,14 +30,14 @@
 <h1>Activity</h1>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-light.svg" />
-    <img alt="Pacman Contribution Graph"
-      src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-light.svg" />
-    </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-light.svg" />
+  <img alt="Pacman Contribution Graph" width="100%"
+    src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-light.svg" />
+</picture>
 </div>
 
 <div align="center">
