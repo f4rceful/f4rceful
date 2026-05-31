@@ -2,8 +2,8 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # каждые 6 часов
-  workflow_dispatch:        # ручной запуск
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,15 +19,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create output branch if not exists
-        run: |
-          git fetch --all
-          git branch -r | grep origin/output || git checkout --orphan output && git push origin output
-
       - name: Increase Node memory
         run: echo "NODE_OPTIONS=--max-old-space-size=8192" >> $GITHUB_ENV
 
-      - name: Generate pacman graph (light & dark)
+      - name: Generate pacman graph
         uses: DuyetBKU/viz-pacman-github-profile@main
         with:
           github_user_name: ${{ github.repository_owner }}
