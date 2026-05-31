@@ -59,4 +59,6 @@
 `----'          '--'  `---'        `---`    `----'    `----'     `--`----'              
 </pre>
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=f4rceful&color=lightgrey" alt="Profile views" />
+</div>
