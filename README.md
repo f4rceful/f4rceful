@@ -12,7 +12,7 @@
 
 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-555?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-555?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-555?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-555?style=flat-square&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-555?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-555?style=flat-square&logo=pytorch&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/scikit-learn-555?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-555?style=flat-square&logo=huggingface&logoColor=white)
 
  ![Pandas](https://img.shields.io/badge/Pandas-555?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-555?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-555?style=flat-square&logo=matplotlib&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-555?style=flat-square&logo=nvidia&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-555?style=flat-square&logo=langchain&logoColor=white)
 
