@@ -31,12 +31,13 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)"
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-light.svg" />
-    <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-light.svg" />
-  </picture>
+    <img alt="Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/dist/pacman-contribution-graph-light.svg" />
+    </picture>
 </div>
 
 <div align="center">
