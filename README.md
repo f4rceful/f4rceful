@@ -1,5 +1,4 @@
 # ML Engineer / MLOps Engineer 
-// 4 yrs of wat?
 <h1>Activity</h1>
 
 <div align="center">
