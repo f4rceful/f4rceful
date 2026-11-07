@@ -31,7 +31,7 @@
 `----'          '--'  `---'        `---`    `----'    `----'     `--`----'              
 </pre>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/main/profile.gif" alt="gif" />
+  <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/main/profile.gif" alt="gif" width="55%" />
 </div>
 </div>
 <div align="center">
