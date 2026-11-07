@@ -30,10 +30,10 @@
 |   | ,'        '  ,/ |   |.'     \   \ .'  |   | ,'  |   | ,'  :  ,      .-./          
 `----'          '--'  `---'        `---`    `----'    `----'     `--`----'              
 </pre>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/main/profile.gif" alt="gif" />
+</div>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=f4rceful&color=lightgrey" alt="Profile views" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/f4rceful/f4rceful/main/profile.gif" alt="gif" />
 </div>
